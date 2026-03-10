@@ -21,7 +21,7 @@ MESSAGE_PORT = 27002
 APP_NAME = 'Server Activity Monitor'
 APP_VERSION = '1.0.0'
 WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 600
+WINDOW_HEIGHT = 300
 
 # Server statuses
 STATUS_NEED_SERVER = 'I need the server'
