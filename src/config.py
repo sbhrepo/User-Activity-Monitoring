@@ -20,8 +20,19 @@ MESSAGE_PORT = 27002
 # Application settings
 APP_NAME = 'Server Activity Monitor'
 APP_VERSION = '1.0.0'
-WINDOW_WIDTH = 800
-WINDOW_HEIGHT = 300
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 700
+
+# UI Theme Colors
+THEME_PRIMARY = '#2563eb'      # Vibrant blue
+THEME_SUCCESS = '#10b981'      # Green
+THEME_WARNING = '#f59e0b'      # Amber
+THEME_DANGER = '#ef4444'       # Red
+THEME_BACKGROUND = '#f8fafc'   # Light gray
+THEME_SURFACE = '#ffffff'      # White
+THEME_BORDER = '#e2e8f0'       # Light border
+THEME_TEXT = '#1e293b'         # Dark text
+THEME_TEXT_SECONDARY = '#64748b' # Secondary text
 
 # Server statuses
 STATUS_NEED_SERVER = 'I need the server'
